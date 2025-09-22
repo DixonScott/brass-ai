@@ -1,3 +1,9 @@
+# Game data and save files
+*.csv
+*.json
+*.pkl
+saves/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
